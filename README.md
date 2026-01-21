@@ -1,2 +1,7 @@
-# Learning-To-TheMoon
-Learning math
+# SYSTEM(Barin)
+
+> 关于如何把学习到的知识灵活运用起来
+>
+> 我将构建一个系统的流程
+
+---
